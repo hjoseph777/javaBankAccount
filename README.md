@@ -19,7 +19,18 @@ The `BankAccountUtility` class provides utility methods for performing operation
 
 ## Output screenshots and Sequence Diagram (UML Class Diagram)
 
-![output screenshots](project_assignment2/images/Output.png)![UML Class Diagram](project_assignment2/images/UMLDesign.png)
+
+<table>
+  <tr>
+    <td><img src="./project_assignment2/images/Output.png" alt="output screenshots"></td>
+    <td><img src="./project_assignment2/images/UMLDesign.png" alt="UML Class Diagram"></td>
+  </tr>
+</table>
+
+
+
+
+<!--## ![output screenshots](project_assignment2/images/Output.png)![UML Class Diagram](project_assignment2/images/UMLDesign.png) --->
 
 
 ## Author Harry Joseph Github Link: https://github.com/hjoseph777
