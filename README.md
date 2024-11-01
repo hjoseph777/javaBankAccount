@@ -18,7 +18,8 @@ The `BankAccountUtility` class provides utility methods for performing operation
 [View the code for BankAccountUtility.java](src/main/java/com/bankaccount/BankAccountUtility.java)
 
 ## Output screenshots and Sequence Diagram (UML Class Diagram)
-![output screenshots](images/output.png)![UML Class Diagram](images/UMLDesign.png)
+
+![output screenshots](project_assignment2/images/Output.png)![UML Class Diagram](/project_assignment2/images/UMLDesign.png)
 
 
 ## Author Harry Joseph Github Link: https://github.com/hjoseph777
